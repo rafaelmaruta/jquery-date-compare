@@ -23,6 +23,7 @@ Apply
 --------
 
 Call examples:
+
 *alert($('#div1,#div2').dateCompare({type:'just2'}));*
 *window.console.log($('#div1,#div2,#div3,#div4').dateCompare({arrayOrder:'ASC',format:'-'}));*
 
