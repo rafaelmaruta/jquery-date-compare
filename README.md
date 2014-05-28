@@ -1,9 +1,9 @@
 jQuery Date Compare
 ======
 
-Date Compare v0.1
-jQuery Plugin to order a range of dates or validate if any date is greater than other
-(c)2014 Rafael Maruta - rafaelmaruta@gmail.com - www.lotuscreative.com.br
+Date Compare v0.1. 
+jQuery Plugin to order a range of dates or validate if any date is greater than other. 
+(c)2014 Rafael Maruta - rafaelmaruta@gmail.com - www.lotuscreative.com.br. 
 Released under the MIT license
 
 It only accepts dates at numerical format like DD/MM/YYYY, MM/YYYY, YYYY-MM-DD or YYYY-MM.
