@@ -1,6 +1,6 @@
 /* 
  * Date Compare v0.1.
- * jQuery Plugin to order a range of dates or validate if any date is greater than other.
+ * jQuery Plugin to order a range of dates or validate if any date is larger than other.
  * (c)2014 Rafael Maruta - rafaelmaruta@gmail.com - www.lotuscreative.com.br.
  * Released under the MIT license.
  * 
@@ -9,7 +9,7 @@
  * Accepts three parameters: type, arrayOrder and format.
  * 
  * Use type:'asArray' if you wanna an ordering array return or 'just2' if you just wanna compare two dates.
- * If the first date in the selector is greater than the second, it will return false. It will consider the DOM ordering.
+ * If the first date in the selector is larger than the second, it will return false. It will consider the DOM ordering.
  * 
  * Use arrayOrder:'ASC' if you wanna the array return to be at ascending order. The default value is 'DESC'.
  * 
