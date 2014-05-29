@@ -1,5 +1,5 @@
 /* 
- * Date Compare v0.1.
+ * Date Compare v1.0.0.
  * jQuery Plugin to order a range of dates or validate if any date is larger than other.
  * (c)2014 Rafael Maruta - rafaelmaruta@gmail.com - www.lotuscreative.com.br.
  * Released under the MIT license.
