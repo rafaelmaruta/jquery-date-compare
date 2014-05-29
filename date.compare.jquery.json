@@ -1,0 +1,32 @@
+{
+	"name": "date.compare",
+	"title": "jQuery.dateCompare",
+	"description": "jQuery Plugin to order a range of dates or validate if any date is larger than the other",
+	"keywords": [
+		"date",
+		"validate",
+		"compare"
+	],
+	"version": "0.1.2",
+	"author": {
+		"name": "Rafael Maruta"
+	},
+	"maintainers": [
+		{
+			"name": "Rafael Maruta"
+		}
+	],
+	"licenses": [
+		{
+			"type": "MIT",
+			"url": "https://github.com/rafaelmaruta/jquery-date-compare/blob/master/LICENSE"
+		}
+	],
+	"bugs": "https://github.com/rafaelmaruta/jquery-date-compare/issues",
+	"homepage": "https://github.com/rafaelmaruta/jquery-date-compare",
+	"docs": "https://github.com/rafaelmaruta/jquery-date-compare",
+	"download": "https://github.com/rafaelmaruta/jquery-date-compare/archive/master.zip",
+	"dependencies": {
+		"jquery": ">=1.7.0"
+	}
+}
