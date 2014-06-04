@@ -38,16 +38,16 @@
 			switch ($(this).get(0).tagName)
 			{
 				case 'INPUT':
-					chkfPush($(this).val());
+					chkPush($(this).val());
 				break;
 				case 'TEXTAREA':
-					chkfPush($(this).val());
+					chkPush($(this).val());
 				break;
 				case 'SELECT':
-					chkfPush($(this).val());
+					chkPush($(this).val());
 				break;
 				default:
-					chkfPush($(this).text());
+					chkPush($(this).text());
 				break;
 			};
 		});
@@ -103,7 +103,7 @@
 		};
 		
 		/* Private method which checks the date format, formats it and pushes in the array holder */
-		function chkfPush(x,y)
+		function chkPush(x,y)
 		{
 			if (x.indexOf('/') > -1)
 			{
