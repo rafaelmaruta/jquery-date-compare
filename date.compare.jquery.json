@@ -3,15 +3,9 @@
 	"title": "jQuery.dateCompare",
 	"description": "jQuery Plugin to order a range of dates or validate if any date is larger than the other",
 	"keywords": [
-		"jquery",
 		"date",
 		"validate",
-		"validation",
-		"compare",
-		"comparision",
-		"input",
-		"form",
-		"ordering"
+		"compare"
 	],
 	"version": "1.1.2",
 	"author": {
