@@ -1,7 +1,7 @@
 jQuery.dateCompare
 ======
 
-jQuery.dateCompare v1.1.2. 
+jQuery.dateCompare v1.1.3. 
 jQuery Plugin to order a range of dates or validate if any date is larger than other. 
 (c)2014 Rafael Maruta - rafaelmaruta@gmail.com.
 Released under the MIT license
